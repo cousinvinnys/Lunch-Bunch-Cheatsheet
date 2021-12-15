@@ -16,6 +16,8 @@
  - Rice
  - Day old rice? Fry it with Veggies
  - Fruit Smoothie (w/ granola)
+ - Wrap
+ - Sushi?
 
 
 ## Sides
@@ -31,4 +33,7 @@
  - Salsa/Guac 
 
 ## Drinks
+
+ - Smoothies
+ - Tea
 
